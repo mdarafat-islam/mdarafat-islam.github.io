@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Md Arafat Islam"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Md Arafat Islam"
 description              : &description " Research enthusiast in Environmental Microbiology and Bioinformatics
 "   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mdarafat-islam.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -25,13 +25,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Md Arafat Islam"
+  pronouns         : # example: "He/him"  
+  bio              : "Research enthusiast in Environmental Microbiology and Bioinformatics"
+  location         : "Dhaka, Bangladesh"
+  employer         : "The ACME Laboratories Limited"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mdarafat.islam@outlook.com" 
 
   # Academic websites
   academia         : # URL
