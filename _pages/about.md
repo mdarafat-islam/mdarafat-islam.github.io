@@ -1,15 +1,11 @@
 ---
 permalink: /
-title: "Academic Md Arafat Islam"
+title: "About Md. Arafat Islam"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-**Md Arafat Islam**
-
-Microbiologist | Environmental & Soil Microbiology | Bioinformatics Enthusiast
 
 I am Md Arafat Islam, a microbiologist and research professional with strong interests in Environmental Microbiology, Soil Microbiology, Synthetic Biology, Microbe–Host Interactions, and Food Microbiology. My work focuses on understanding microbial systems and translating scientific knowledge into applications that address health, agriculture, and environmental sustainability.
 
