@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Md Arafat Islam"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Md Arafat Islam"
 description              : &description " Research enthusiast in Environmental Microbiology and Bioinformatics
