@@ -22,9 +22,9 @@ I am a microbiologist and research professional with strong interests in **Envir
 ---
 
 ## 🔬 Research Interests
-- Environmental & Soil Microbiology  
-- Ammonia-oxidizing Archaea (AOA) and microbial nitrogen cycling  
-- Microbe–host interactions  
+- Environmental & Soil Microbiology   
+- Microbe–host Interactions
+- Synthetic Microbiology 
 - Bioinformatics and data-driven microbiology  
 
 ---
@@ -56,10 +56,11 @@ I am a microbiologist and research professional with strong interests in **Envir
 - Soil & environmental sample analysis  
 - Determination of NH₄⁺, NO₂⁻, NO₃⁻, and organic substrates  
 
-**Computational & Bioinformatics Skills:**  
-- Programming & Data Analysis: Python, R, SQL, basic statistics  
-- Bioinformatics Tools: MEGA, BioEdit  
-- Data Handling: Microsoft Excel, scientific data visualization  
+**Bioinformatics & Data Analysis Skills:**  
+- Analysis of high-throughput sequencing data
+- QIIME 2 analysis workflow 
+- Python & R programming for biological data analysis & data visualization
+- Basic Linux command-line operations for bioinformatics workflows
 
 ---
 
@@ -89,14 +90,14 @@ I am a microbiologist and research professional with strong interests in **Envir
 
 ---
 
-## 🎓 Professional Development
+## 🎓 Training & Development
 - **Data Science & Machine Learning with Python** (OSTAD)  
 - **Statistical Data Analysis using R**  
 - **IELTS** (Overall Band: 7.0)  
 
 ---
 
-## 🏆 Awards & Recognition
+## 🏆 Awards & Recognitions
 - Outstanding Performance Award (2024), The ACME Laboratories Limited  
 - Promotion to Senior Executive (2023)  
 - BK21 Plus & Fresher Student Scholarship, Chungbuk National University  
