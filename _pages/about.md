@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Md. Arafat Islam
-
 **Microbiologist | Environmental Microbiology | Bioinformatics | Soil & Synthetic Biology**
 
 I am a microbiologist and research professional with strong interests in **Environmental Microbiology, Soil Microbiology, Synthetic Biology, Microbe–Host Interactions, and Food Microbiology**. My work focuses on understanding microbial systems and translating scientific knowledge into applications that address **health, agriculture, and environmental sustainability**.
