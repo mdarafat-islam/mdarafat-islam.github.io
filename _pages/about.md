@@ -44,6 +44,7 @@ I am a microbiologist and research professional with strong interests in **Envir
 - Isolation of _Lactobacillus delbrueckii_ in MRS agar medium.
 - Anaerobic cultivation of Lactobacillus delbrueckii by using anaerobic jar.
 - Hands-on experience on gram staining, microscopic observation, and biochemical tests (catalase test, oxidase test, & sugar fermentation test).
+  
 ---
 
 ## 🧪 Research Experience & Skills
