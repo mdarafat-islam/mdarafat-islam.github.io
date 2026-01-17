@@ -11,12 +11,12 @@ redirect_from:
 
 I am a microbiologist and research professional with strong interests in **Environmental Microbiology, Soil Microbiology, Synthetic Biology, Microbe–Host Interactions, and Food Microbiology**. My work focuses on understanding microbial systems and translating scientific knowledge into applications that address **health, agriculture, and environmental sustainability**.
 
-<img src="/assets/img/profile.jpg" width="160" style="border-radius:50%; margin:10px 0;">
+#<img src="/assets/img/profile.jpg" width="160" style="border-radius:50%; margin:10px 0;">
 
 <div style="margin: 10px 0;">
   <a href="/assets/cv/Arafat_Islam_CV.pdf" style="background-color:#4CAF50;color:white;padding:8px 16px;text-decoration:none;border-radius:5px;margin-right:5px;">📄 Download CV</a>
-  <a href="/publications/" style="background-color:#2196F3;color:white;padding:8px 16px;text-decoration:none;border-radius:5px;margin-right:5px;">📚 Publications</a>
-  <a href="mailto:your_email@example.com" style="background-color:#FF9800;color:white;padding:8px 16px;text-decoration:none;border-radius:5px;">📧 Contact</a>
+  #<a href="/publications/" style="background-color:#2196F3;color:white;padding:8px 16px;text-decoration:none;border-radius:5px;margin-right:5px;">📚 Publications</a>
+  <a href="mdarafat.islam@outlook.com" style="background-color:#FF9800;color:white;padding:8px 16px;text-decoration:none;border-radius:5px;">📧 Contact</a>
 </div>
 
 ---
@@ -32,14 +32,18 @@ I am a microbiologist and research professional with strong interests in **Envir
 ## 🎓 Academic Background
 
 **Master of Science (M.Sc.) in Microbiology & Biotechnology**  
-*Chungbuk National University, South Korea*  
+*Chungbuk National University, South Korea, 2018*  
 - Thesis: Characterization of an ammonia-oxidizing archaeon of group 1.1a isolated from agricultural soil  
 - Research focus: cultivation and characterization of AOA from soil  
 - Hands-on experience in molecular and microbial ecology techniques  
 
 **Bachelor of Science (B.Sc.) in Microbiology**  
-*Jashore University of Science & Technology, Bangladesh*
-
+*Jashore University of Science & Technology, Bangladesh, 2012*
+- Undergraduate project: Isolation & identification of Lactobacillus delbrueckii from local market curd.
+- Preparation of primary culture in MRS broth medium from raw curd samples.
+- Isolation of _Lactobacillus delbrueckii_ in MRS agar medium.
+- Anaerobic cultivation of Lactobacillus delbrueckii by using anaerobic jar.
+- Identification of Lactobacillus delbrueckii- gram staining, microscopic observation, and biochemical tests (catalase test, oxidase test, & sugar fermentation test).
 ---
 
 ## 🧪 Research Experience & Skills
