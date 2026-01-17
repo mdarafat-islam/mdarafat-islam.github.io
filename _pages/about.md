@@ -16,7 +16,7 @@ I am a microbiologist and research professional with strong interests in **Envir
 <div style="margin: 10px 0;">
   <a href="/assets/cv/Arafat_Islam_CV.pdf" style="background-color:#4CAF50;color:white;padding:8px 16px;text-decoration:none;border-radius:5px;margin-right:5px;">📄 Download CV</a>
   <!--<a href="/publications/" style="background-color:#2196F3;color:white;padding:8px 16px;text-decoration:none;border-radius:5px;margin-right:5px;">📚 Publications</a> -->
-  <a href="mdarafat.islam@outlook.com" style="background-color:#FF9800;color:white;padding:8px 16px;text-decoration:none;border-radius:5px;">📧 Contact</a>
+  <!--<a href="mdarafat.islam@outlook.com" style="background-color:#FF9800;color:white;padding:8px 16px;text-decoration:none;border-radius:5px;">📧 Contact</a>-->
 </div>
 
 ---
@@ -85,7 +85,7 @@ I am a microbiologist and research professional with strong interests in **Envir
 ## 📚 Publications & Scholarly Contributions
 - Peer-reviewed journal articles on ammonia-oxidizing archaea, microbial ecology, and environmental microbiology  
 - Book chapter on quality control & regulatory aspects for biologicals (CRC Press)  
-- [Full publication list available on the Publications page](/publications/)  
+- [Full publication list available in CV](/cv/)  
 
 ---
 
