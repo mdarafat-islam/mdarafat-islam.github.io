@@ -9,7 +9,7 @@ redirect_from:
 
 **Microbiologist | Environmental Microbiology | Bioinformatics | Soil & Synthetic Biology**
 
-I am a microbiologist and research professional with strong interests in **Environmental Microbiology, Soil Microbiology, Synthetic Biology, Microbe–Host Interactions, and Food Microbiology**. My work focuses on understanding microbial systems and translating scientific knowledge into applications that address **health, agriculture, and environmental sustainability**.
+I am a microbiologist and research research enthusiast in **Environmental Microbiology, Soil Microbiology, Synthetic Microbiology, Microbe–Host Interactions, and Bioinformatics**. My work focuses on understanding microbial systems and translating scientific knowledge into applications that address **health, agriculture, and environmental sustainability**.
 
 <!--<img src="/assets/img/profile.jpg" width="160" style="border-radius:50%; margin:10px 0;">-->
 
